@@ -12,27 +12,24 @@ technical ideas into useful real-world applications.
 
 ## 🚀 Featured Projects
 
-### 📊 AI Business Intelligence Dashboard
-Interactive dashboard for business analytics with KPIs, visualizations, and insights.
+### 🤖 AI-MultiSense: Real-Time Surveillance
+Real-time aerial and terrestrial object detection and surveillance using YOLO and OpenCV.
 
-**Focus:** Data Analytics • Data Visualization • Business Intelligence
-
----
-
-### 🤖 AI-MultiSense
-Real-time aerial and terrestrial object detection using deep learning and YOLO.
-
-**Focus:** Computer Vision • Deep Learning • Object Detection
+**Focus:** Computer Vision • Deep Learning • Object Detection • Real-Time Processing
 
 ---
 
-### ⚙️ CPU Scheduling Simulator
-Operating system scheduling visualizer supporting multiple CPU scheduling algorithms.
+### 📊 Customer Churn Prediction
+Machine learning project focused on predicting customer churn using data analysis and Scikit-learn.
 
-**Focus:** Operating Systems • Algorithms • Visualization
+**Focus:** Machine Learning • Data Analysis • Predictive Modeling • Scikit-learn
 
 ---
 
+### 📧 Spam Email Detection
+Machine learning and NLP-based system for classifying emails as spam or legitimate using TF-IDF.
+
+**Focus:** NLP • Text Classification • TF-IDF • Machine Learning
 ## 🛠️ Skills & Technologies
 
 **Programming:**  
@@ -47,8 +44,7 @@ Scikit-learn • Deep Learning • YOLO • OpenCV
 **Data & BI:**  
 Excel • Power BI
 
-**Development & Tools:**  
-React • Node.js • Git • GitHub • VS Code
+
 
 ---
 
